@@ -1,4 +1,4 @@
-package edu.curso.supermarket.controller;
+package edu.curso.controller;
 
 import java.util.Properties;
 import java.util.concurrent.TimeUnit;

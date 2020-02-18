@@ -5,7 +5,7 @@ package SuperMarket;
 
 import org.junit.Test;
 
-import edu.curso.supermarket.Library;
+import edu.curso.Library;
 
 import static org.junit.Assert.*;
 

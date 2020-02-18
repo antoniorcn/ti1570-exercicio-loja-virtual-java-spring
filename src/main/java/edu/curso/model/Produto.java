@@ -1,4 +1,4 @@
-package edu.curso.supermarket.model;
+package edu.curso.model;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

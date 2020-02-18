@@ -1,4 +1,4 @@
-package edu.curso.supermarket.repository;
+package edu.curso.repository;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 import edu.curso.model.Produto;
